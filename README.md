@@ -29,13 +29,6 @@ NKODKLY1H7-eyJsaWNlbnNlSWQiOiJOS09ES0xZMUg3IiwibGljZW5zZWVOYW1lIjoiZ3VyZ2xlcyB0d
 ```
 </details>
 
-<details> <summary>PyCharm</summary>
-
-```
-
-```
-</details>
-
 <details> <summary>WebStorm</summary>
 
 ```
